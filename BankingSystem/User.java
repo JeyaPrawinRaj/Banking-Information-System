@@ -17,5 +17,11 @@ public class User {
     public String getPassword() {
         return password;
     }
+    
+    public void updateDetails(String name, String address, String phone) {
+        this.name = name;
+        this.address = address;
+        this.phone = phone;
+    }
 
 }

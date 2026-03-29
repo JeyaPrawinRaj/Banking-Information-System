@@ -98,7 +98,6 @@ Users can:
 
 ## 🚀 How to Run
 
-## 🚀 How to Run
 
 ```bash
 javac BankingSystem\*.java
